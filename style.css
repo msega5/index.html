@@ -8,12 +8,12 @@
 
 @font-face {
     font-family: Family New;
-    src: url(./VictorMono-Medium.ttf);
+    src: url(VictorMono-Medium.ttf);
 }
 
 body {
 
-    background: src: url(./background.png) no-repeat -220px 20px;
+    background: url(background.png) no-repeat -220px 20px;
     font-family: Tektur, sans-serif;
     color: beige;
     background-color: black;
