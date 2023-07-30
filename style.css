@@ -13,7 +13,7 @@
 
 body {
 
-    background: url(./background.png) no-repeat -220px 20px;
+    background: src: url(./background.png) no-repeat -220px 20px;
     font-family: Tektur, sans-serif;
     color: beige;
     background-color: black;
